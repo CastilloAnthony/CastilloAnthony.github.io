@@ -1,4 +1,4 @@
-###### Anthony Castillo's Portfolio
+### Anthony Castillo's Portfolio
 
 I am a computer science student who is looking for a position that will ensure healthy growth and refinement of my current skills while also expanding my knowledge and abilities in a challenging an friendly work environment.
 
