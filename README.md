@@ -5,8 +5,9 @@ I am a computer science student who is looking for a position that will ensure h
 ## Contact Me Directly At
 - Phone: (209) 602-1093
 - Email: [anthony1093ca@mail.com](anthony1093ca@mail.com)
-- GitHub: [IceWolf777](https://github.com/IceWolf777)
+- GitHub: [https://github.com/IceWolf777](https://github.com/IceWolf777)
 - LinkedIn: [https://www.linkedin.com/in/anthony-castillo-3b7829149/](https://www.linkedin.com/in/anthony-castillo-3b7829149/)
+
 ## Programming Langauges that I'm Comfortable with:
 - C++
 - Lua
