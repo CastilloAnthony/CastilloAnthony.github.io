@@ -1,5 +1,12 @@
 ###### Anthony Castillo's Portfolio
 
+I am a computer science student who is looking for a position that will ensure healthy growth and refinement of my current skills while also expanding my knowledge and abilities in a challenging an friendly work environment.
+
+## Programming Langauges that I've used:
+- C++
+- Lua
+- Python
+
 You can use the [editor on GitHub](https://github.com/IceWolf777/IceWolf777.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
