@@ -22,12 +22,16 @@ Hello! I am a computer science student who is looking for a position that will e
 
 ### Operating Systems and Software that I'm Comfortable with:
 - Windows 10
+- Raspberry Pi
 - Linux
     - Bash Shell programming
-- Raspberry Pi
 - Microsoft Office Suite of Applications
     - i.e. Word, Excel, Powerpoint
+- Visual Studio
+- Git
+- PuTTY
 - VMWare
+- Adobe Photoshop Elements
 
 ### A Quicklook
 
@@ -124,4 +128,4 @@ For more information on this project, the github repository can be located [here
 
 ## Computer Science Final Project
 
-This is where I will put information about the computer science final project I'm working on for this semester (spring 2022).
+This is where I will put information about the computer science final project I will be working on for this semester (spring 2022).
