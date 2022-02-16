@@ -9,9 +9,10 @@ Hello! I am a computer science student who is looking for a position that will e
 - Certificate of Achievement Computer Programming Specialist (Pending Completion)
 - Certificate of Achievement CSU GE Pattern (Pending Completion)
 
-## Contact Me Directly At
+## Contact Details
 - Phone: (209) 602-1093
-- Email: [anthony1093ca@mail.com](anthony1093ca@mail.com)
+- Preferred Email: [anthony1093ca@mail.com](anthony1093ca@mail.com)
+- Student Email [anthony856177@my.yosemite.edu](anthony856177@my.yosemite.edu)
 - GitHub: [https://github.com/IceWolf777](https://github.com/IceWolf777)
 - LinkedIn: [https://www.linkedin.com/in/anthony-castillo-3b7829149/](https://www.linkedin.com/in/anthony-castillo-3b7829149/)
 
