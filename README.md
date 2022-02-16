@@ -23,10 +23,10 @@ Hello! I am a computer science student who is looking for a position that will e
 - Windows 10
 - Linux
     - Bash Shell programming
-- Raspberry Pi
+-- Raspberry Pi
 - Microsoft Office Suite of Applications
     - i.e. Word, Excel, Powerpoint
-- VMWare
+-- VMWare
 
 ### A Quicklook
 
