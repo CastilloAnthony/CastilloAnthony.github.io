@@ -24,7 +24,7 @@ I am a computer science student who is looking for a position that will ensure h
 - Linux
 - Raspberry Pi
 - Microsoft Office Suite of Applications
--- Word, Excel, Powerpoint
+    - Word, Excel, Powerpoint
 
 ### A Quicklook
 
