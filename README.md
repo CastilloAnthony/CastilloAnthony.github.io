@@ -2,14 +2,15 @@
 
 I am a computer science student who is looking for a position that will ensure healthy growth and refinement of my current skills while also expanding my knowledge and abilities in a challenging an friendly work environment.
 
-## Programming Langauges that I've used:
+## Contact Me Directly At
+- Phone: (209) 602-1093
+- Email: [anthony1093ca@mail.com](anthony1093ca@mail.com)
+- GitHub: [IceWolf777](https://github.com/IceWolf777)
+- LinkedIn: [https://www.linkedin.com/in/anthony-castillo-3b7829149/](https://www.linkedin.com/in/anthony-castillo-3b7829149/)
+## Programming Langauges that I'm Comfortable with:
 - C++
 - Lua
 - Python
-
-You can use the [editor on GitHub](https://github.com/IceWolf777/IceWolf777.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
