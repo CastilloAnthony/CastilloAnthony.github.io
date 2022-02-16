@@ -23,7 +23,7 @@ I am a computer science student who is looking for a position that will ensure h
 - Windows 10
 - Linux
 
-### Quicklook
+### A Quicklook
 
 Below is a sample of some of code that I've written and worked with. For this example, I created a class object that was capable of reading a specific file (contigencyLibrary.txt) line by line and importing those lines as urls. Once the program has pulled the data from the text file, it will then attempt to access each url.
 
@@ -137,12 +137,5 @@ void library::selfDestruct()
 #endif
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more information on this project, here is the github repository: [https://github.com/IceWolf777/Contingency](https://github.com/IceWolf777/Contingency)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IceWolf777/IceWolf777.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
