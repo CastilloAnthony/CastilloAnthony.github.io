@@ -1,11 +1,13 @@
 # Anthony Castillo's Portfolio
 
 I am a computer science student who is looking for a position that will ensure healthy growth and refinement of my current skills while also expanding my knowledge and abilities in a challenging an friendly work environment.
+
 ## Degrees & Certificates
 - Associate's Degree in Computer Science (Pending)
 - AA GSE: Language and Rationality (Pending)
 - Certificate of Achievement Computer Programming Specialist (Pending)
 - Certificate of Achievement CSU GE Pattern (Pending)
+
 ## Contact Me Directly At
 - Phone: (209) 602-1093
 - Email: [anthony1093ca@mail.com](anthony1093ca@mail.com)
@@ -23,14 +25,14 @@ I am a computer science student who is looking for a position that will ensure h
 
 ### A Quicklook
 
-Below is a sample of some of code that I've written and worked with. For this example, I created a header file for a class object that was capable of reading a specific file (contigencyLibrary.txt) line by line and importing those lines as urls, file locations, or folder locations. Once the program has pulled the data from the text file, it will then attempt to access each url individually. And then wait for user input before closing.
+Below is a sample of some code that I've written and worked with. For this example, I created a header file for a class object that was capable of reading a specific file (contigencyLibrary.txt) line by line and importing those lines as urls, file locations, or folder locations. Once the program has pulled the data from the text file, it  then attemptted to access each url individually. And then wait for user input before closing.
 
 ```c++
 #ifndef H_dictionaryList
 #define H_dictionaryList
 
 /*
-	I need to create a class which can contain an infinite number of urls and output that their url to what ever function is calling them.
+	I need to create a class which can contain a theoretically infinite number of urls and output that url to what ever function is calling them.
 	Anthony Castillo 7/20/2019
 */
 
