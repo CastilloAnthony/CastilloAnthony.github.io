@@ -19,9 +19,12 @@ I am a computer science student who is looking for a position that will ensure h
 - Lua
 - Python
 
-### Operating Systems
+### Operating Systems and Software that I'm Comfortable with:
 - Windows 10
 - Linux
+- Raspberry Pi
+- Microsoft Office Suite of Applications
+-- Word, Excel, Powerpoint
 
 ### A Quicklook
 
