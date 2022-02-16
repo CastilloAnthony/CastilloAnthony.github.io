@@ -1,12 +1,12 @@
 # Anthony Castillo's Portfolio
 
-I am a computer science student who is looking for a position that will ensure healthy growth and refinement of my current skills while also expanding my knowledge and abilities in a challenging an friendly work environment.
+Hello! I am a computer science student who is looking for a position that will ensure healthy growth and refinement of my current skills while also expanding my knowledge and abilities in a challenging an friendly work environment.
 
 ## Degrees & Certificates
-- Associate's Degree in Computer Science (Pending)
-- AA GSE: Language and Rationality (Pending)
-- Certificate of Achievement Computer Programming Specialist (Pending)
-- Certificate of Achievement CSU GE Pattern (Pending)
+- Associate's Degree in Computer Science (Pending Completion)
+- AA GSE: Language and Rationality (Pending Completion)
+- Certificate of Achievement Computer Programming Specialist (Pending Completion)
+- Certificate of Achievement CSU GE Pattern (Pending Completion)
 
 ## Contact Me Directly At
 - Phone: (209) 602-1093
@@ -22,9 +22,11 @@ I am a computer science student who is looking for a position that will ensure h
 ### Operating Systems and Software that I'm Comfortable with:
 - Windows 10
 - Linux
+    - Bash Shell programming
 - Raspberry Pi
 - Microsoft Office Suite of Applications
-    - Word, Excel, Powerpoint
+    - i.e. Word, Excel, Powerpoint
+- VMWare
 
 ### A Quicklook
 
