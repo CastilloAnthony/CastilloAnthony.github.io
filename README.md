@@ -25,7 +25,7 @@ I am a computer science student who is looking for a position that will ensure h
 
 ### A Quicklook
 
-Below is a sample of some of code that I've written and worked with. For this example, I created a class object that was capable of reading a specific file (contigencyLibrary.txt) line by line and importing those lines as urls. Once the program has pulled the data from the text file, it will then attempt to access each url.
+Below is a sample of some of code that I've written and worked with. For this example, I created a header file for a class object that was capable of reading a specific file (contigencyLibrary.txt) line by line and importing those lines as urls, file locations, or folder locations. Once the program has pulled the data from the text file, it will then attempt to access each url individually. And then wait for user input before closing.
 
 ```c++
 #ifndef H_dictionaryList
@@ -47,13 +47,11 @@ Below is a sample of some of code that I've written and worked with. For this ex
 class library
 {
 public:
-
 	// Accessors
 	std::string printList(int); // Will return the info stored in the unorderedLinkedList node #int.
 	int length(); // Will return the length of the unorderedLinkedList.
 
 	// Mutators
-	// void addSitesToList(); // Adds all the predetermined sites to the unorderedLinkedList. //No longer used.
 	void addSitesToListFromFile(); // Pulls strings from a file and inputs it into our lists for easy add-ability
 
 	// Constructors
@@ -61,11 +59,9 @@ public:
 	
 	// Deconstructors
 	void selfDestruct(); // Default deconstructor
-
+    
 private:
 	unorderedLinkedList<string> list1;
-	// No longer used
-	//std::string website01, website02, website03, website04, website05, website06, website07, website08, website09; 
 };
 
 /*		FUNCTION DEFINITIONS		*/
