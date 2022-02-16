@@ -78,25 +78,6 @@ std::string library::printList(int n) // Will return the info stored in the unor
 int library::length() { return list1.length(); }; // Will return the length of the unorderedLinkedList.
 
 // Mutators
-/*
-void library::addSitesToList() // Adds all the predetermined sites to the unorderedLinkedList. // This function is no longer used.
-{
-	if (library::list1.isEmptyList())
-	{
-		list1.insertLast(library::website01);
-		list1.insertLast(library::website02);
-		list1.insertLast(library::website03);
-		list1.insertLast(library::website04);
-		list1.insertLast(library::website05);
-		list1.insertLast(library::website06);
-		list1.insertLast(library::website07);
-		list1.insertLast(library::website08);
-		list1.insertLast(library::website09);
-	};
-	std::cout << "Sites added to list!" << endl;
-	return;
-}; // end addSitesToList
-*/
 
 void library::addSitesToListFromFile() // This function is used to pull urls from a file and input them into an unorderedLinkedList
 {
