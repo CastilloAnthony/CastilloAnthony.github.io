@@ -23,10 +23,10 @@ Hello! I am a computer science student who is looking for a position that will e
 - Windows 10
 - Linux
     - Bash Shell programming
--- Raspberry Pi
+- Raspberry Pi
 - Microsoft Office Suite of Applications
     - i.e. Word, Excel, Powerpoint
--- VMWare
+- VMWare
 
 ### A Quicklook
 
@@ -121,3 +121,6 @@ void library::selfDestruct()
 
 For more information on this project, the github repository can be located [here](https://github.com/IceWolf777/Contingency).
 
+## Computer Science Final Project
+
+This is where I will put information about the computer science final project I'm working on for this semester (spring 2022).
