@@ -118,5 +118,5 @@ void library::selfDestruct()
 #endif
 ```
 
-For more information on this project, here is the github repository: [https://github.com/IceWolf777/Contingency](https://github.com/IceWolf777/Contingency)
+For more information on this project, the github repository can be located [here](https://github.com/IceWolf777/Contingency).
 
