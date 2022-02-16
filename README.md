@@ -1,20 +1,18 @@
 # Anthony Castillo's Portfolio
 
 I am a computer science student who is looking for a position that will ensure healthy growth and refinement of my current skills while also expanding my knowledge and abilities in a challenging an friendly work environment.
-
+## Degrees & Certificates
+- Associate's Degree in Computer Science (Pending)
+- AA GSE: Language and Rationality (Pending)
+- Certificate of Achievement Computer Programming Specialist (Pending)
+- Certificate of Achievement CSU GE Pattern (Pending)
 ## Contact Me Directly At
 - Phone: (209) 602-1093
 - Email: [anthony1093ca@mail.com](anthony1093ca@mail.com)
 - GitHub: [https://github.com/IceWolf777](https://github.com/IceWolf777)
 - LinkedIn: [https://www.linkedin.com/in/anthony-castillo-3b7829149/](https://www.linkedin.com/in/anthony-castillo-3b7829149/)
 
-## Degrees & Certificates
-- Associate's Degree in Computer Science (Pending)
-- AA GSE: Language and Rationality (Pending)
-- Certificate of Achievement Computer Programming Specialist (Pending)
-- Certificate of Achievement CSU GE Pattern (Pending)
-
-## Programming Langauges that I'm Comfortable with:
+### Programming Langauges that I'm Comfortable with:
 - C++
 - Lua
 - Python
@@ -59,7 +57,7 @@ public:
 	
 	// Deconstructors
 	void selfDestruct(); // Default deconstructor
-    
+
 private:
 	unorderedLinkedList<string> list1;
 };
