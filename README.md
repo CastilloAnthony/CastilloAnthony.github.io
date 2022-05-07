@@ -21,6 +21,7 @@ Hello! I am a computer science student who is looking for a position that will e
 - C++
 - Lua
 - Python
+- SQL
 
 ### Operating Systems and Software that I'm Comfortable with:
 - Windows 10
