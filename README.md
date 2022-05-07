@@ -4,15 +4,16 @@
 Hello! I am a computer science student who is looking for a position that will ensure healthy growth and refinement of my current skills while also expanding my knowledge and abilities in a challenging an friendly work environment.
 
 ## Degrees & Certificates
-- Associate's Degree in Computer Science (Pending Completion)
-- AA GSE: Language and Rationality (Pending Completion)
-- Certificate of Achievement Computer Programming Specialist (Pending Completion)
-- Certificate of Achievement CSU GE Pattern (Pending Completion)
+- Associate of Science Degree in Computer Science
+- Associate of Arts Degree in General Studies with Emphasis in Language and Rationality
+- Certificate of Achievement Computer Programming Specialist
+- Certificate of Achievement California State University General Education Pattern
 
 ## Contact Details
 - Phone: (209) 602-1093
 - Preferred Email: [anthony1093ca@mail.com](anthony1093ca@mail.com)
-- Student Email [anthony856177@my.yosemite.edu](anthony856177@my.yosemite.edu)
+- MJC Student Email: [anthony856177@my.yosemite.edu](anthony856177@my.yosemite.edu)
+- Stanislaus State University Email:  [acastillo52@csustan.edu](acastillo52@csustan.edu)
 - GitHub: [https://github.com/IceWolf777](https://github.com/IceWolf777)
 - LinkedIn: [https://www.linkedin.com/in/anthony-castillo-3b7829149/](https://www.linkedin.com/in/anthony-castillo-3b7829149/)
 
