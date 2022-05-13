@@ -38,7 +38,7 @@ Hello! I am a computer science student who is looking for a position that will e
 
 ### A Quicklook
 
-Below is a sample of some code that I've written and worked with. In this example, I created a header file for a class object with the intent that it'd be capable of reading a specific file (contigencyLibrary.txt) line by line and importing those lines as urls, folder locations, or file locations. Once the program has pulled the data from the text file, it  then attemptted to access each url individually. And then wait for user input before closing. Its a simple program intended to automate the opening of specific files, folders, or websites.
+Below is a sample of some C++ code that I've written and worked with. In this example, I created a header file for a class object with the intent that it'd be capable of reading a specific file (contigencyLibrary.txt) line by line and importing those lines as urls, folder locations, or file locations. Once the program has pulled the data from the text file, it then attempts to access each url individually. And then wait for user input before closing. Its a simple program intended to automate the opening of specific files, folders, or websites.
 
 ```c++
 #ifndef H_dictionaryList
