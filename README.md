@@ -1,13 +1,13 @@
 ![Disclaimer:](https://networks.imdea.org/wp-content/uploads/2021/09/media-file-code-900x500.png "I do not own this picture.")
 # Anthony Castillo's Portfolio
 
-Hello! I am a computer science student who is looking for a position that will ensure healthy growth and refinement of my current skills while also expanding my knowledge and abilities in a challenging an friendly work environment.
+Hello, my name is Anthony Castillo! I am a Computer Science student who is looking for a position that will ensure healthy growth and refinement of my current skills while also expanding my knowledge and abilities in a challenging and friendly work environment.
 
 ## Degrees & Certificates
-- Associate of Science Degree in Computer Science
-- Associate of Arts Degree in General Studies with Emphasis in Language and Rationality
-- Certificate of Achievement Computer Programming Specialist
-- Certificate of Achievement California State University General Education Pattern
+- Associate of Science Degree in Computer Science, 2022
+- Associate of Arts Degree in General Studies with Emphasis in Language and Rationality, 2022
+- Certificate of Achievement Computer Programming Specialist, 2022
+- Certificate of Achievement California State University General Education Pattern, 2022
 
 ## Contact Details
 - Phone: (209) 602-1093
