@@ -132,4 +132,5 @@ For more information on this project, the github repository can be located [here
 ## Computer Science Final Project
 
 For my team's final project we decided to delve head first into SQL. No one on my team had any experience with SQL or similar languages.
+
 https://github.com/IceWolf777/IceWolf777.github.io/blob/21b0646072bc6d2708b8aff08b1007c8a428187a/finalProject_Presentation.pdf
