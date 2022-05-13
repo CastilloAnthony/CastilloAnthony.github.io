@@ -129,7 +129,7 @@ void library::selfDestruct()
 
 For more information on this project, the github repository can be located [here](https://github.com/IceWolf777/Contingency). Other Projects and their repositories can be found [here](https://github.com/IceWolf777?tab=repositories).
 
-## Computer Science Final Project
+## Computer Science Final Project, 2022
 
 For my team's final project we decided to delve head first into SQL. No one on my team had any experience with SQL or similar languages.
 
