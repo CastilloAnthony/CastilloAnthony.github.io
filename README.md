@@ -129,7 +129,7 @@ void library::selfDestruct()
 
 For more information on this above project you can visit the github repository [here](https://github.com/IceWolf777/Contingency). Other Projects and their repositories can be found [here](https://github.com/IceWolf777?tab=repositories).
 
-Below you can see another, more recent, project that I've been working on for a Data Structures and Algorithms class at Stanislaus State University. For this project we were meant to create an Inventory Retrival System that utilizing four different data structures in python. The first strucutre was python's built-in array. The other three were structres that we had to program in ourselves. This snippet of code is our Sorted Array implementation.
+Below you can see another, more recent, project that I've been working on for a Data Structures and Algorithms class at Stanislaus State University. This project was written in Python. For this project, my classmate and I were meant to create an Inventory Retrival System that utilized four different data structures in python. The first strucutre was python's built-in array; and other three were structres were ones that we had to program ourselves. One being an unsorted linked list, another being a hash table, and the third being a sorted array. This snippet of code below is our Sorted Array implementation.
 
 ```python
 '''
@@ -498,7 +498,7 @@ class SortedDictAbstract_Imp(
     # end partition()
 ```
 
-For more information on this above project you can visit the github repository [here](https://github.com/IceWolf777/Virtual-Garden-Inventory-Retrieval-System).
+For more information on this above project you can visit the github repository [here](https://github.com/IceWolf777/Virtual-Garden-Inventory-Retrieval-System). Again, other Projects and their repositories can be found [here](https://github.com/IceWolf777?tab=repositories).
 
 ## Computer Science Final Project, 2022
 
