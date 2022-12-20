@@ -4,6 +4,7 @@
 Hello, my name is Anthony Castillo! I am a Computer Science student who is looking for a position that will ensure healthy growth and refinement of my current skills while also expanding my knowledge and abilities in a challenging and friendly work environment.
 
 ## Degrees & Certificates
+- Bachelor of Science Degree in Computer Science, (Expected Completion 2024)
 - Associate of Science Degree in Computer Science, 2022
 - Associate of Arts Degree in General Studies with Emphasis in Language and Rationality, 2022
 - Certificate of Achievement Computer Programming Specialist, 2022
@@ -12,8 +13,8 @@ Hello, my name is Anthony Castillo! I am a Computer Science student who is looki
 ## Contact Details
 - Phone: (209) 602-1093
 - Preferred Email: [anthony1093ca@mail.com](anthony1093ca@mail.com)
-- MJC Student Email: [anthony856177@my.yosemite.edu](anthony856177@my.yosemite.edu)
 - Stanislaus State University Email:  [acastillo52@csustan.edu](acastillo52@csustan.edu)
+- MJC Student Email: [anthony856177@my.yosemite.edu](anthony856177@my.yosemite.edu)
 - GitHub: [https://github.com/IceWolf777](https://github.com/IceWolf777)
 - LinkedIn: [https://www.linkedin.com/in/anthony-castillo-3b7829149/](https://www.linkedin.com/in/anthony-castillo-3b7829149/)
 
