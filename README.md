@@ -15,7 +15,7 @@ Hello, my name is Anthony Castillo! I am a Computer Science student who is looki
 - Preferred Email: [anthony1093ca@mail.com](anthony1093ca@mail.com)
 - Stanislaus State University Email:  [acastillo52@csustan.edu](acastillo52@csustan.edu)
 - MJC Student Email: [anthony856177@my.yosemite.edu](anthony856177@my.yosemite.edu)
-- GitHub: [https://github.com/IceWolf777](https://github.com/IceWolf777)
+- GitHub: [https://github.com/CastilloAnthony](https://github.com/CastilloAnthony)
 - LinkedIn: [https://www.linkedin.com/in/anthony-castillo-3b7829149/](https://www.linkedin.com/in/anthony-castillo-3b7829149/)
 
 ### Programming Langauges that I'm Comfortable with:
@@ -128,7 +128,7 @@ void library::selfDestruct()
 #endif
 ```
 
-For more information on this above project you can visit the github repository [here](https://github.com/IceWolf777/Contingency). Other Projects and their repositories can be found [here](https://github.com/IceWolf777?tab=repositories).
+For more information on this above project you can visit the github repository [here](https://github.com/CastilloAnthony/Contingency). Other Projects and their repositories can be found [here](https://github.com/CastilloAnthony?tab=repositories).
 
 Below you can see another, more recent, project that I've been working on for a Data Structures and Algorithms class at Stanislaus State University. This project was written in Python. For this project, my classmate and I were meant to create an Inventory Retrival System that utilized four different data structures in python. The first strucutre was python's built-in array; and other three were structres were ones that we had to program ourselves. One being an unsorted linked list, another being a hash table, and the third being a sorted array. This snippet of code below is our Sorted Array implementation.
 
@@ -499,8 +499,8 @@ class SortedDictAbstract_Imp(
     # end partition()
 ```
 
-For more information on this above project you can visit the github repository [here](https://github.com/IceWolf777/Virtual-Garden-Inventory-Retrieval-System). Again, other Projects and their repositories can be found [here](https://github.com/IceWolf777?tab=repositories).
+For more information on this above project you can visit the github repository [here](https://github.com/CastilloAnthony/Virtual-Garden-Inventory-Retrieval-System). Again, other Projects and their repositories can be found [here](https://github.com/CastilloAnthony?tab=repositories).
 
 ## Computer Science Final Project, 2022
 
-For my team's final project we decided to delve head first into SQL. No one on my team had any experience with SQL or a similar language, so this was all new content for us. We learned how to setup, host, and connect to a database on our local computer. We also learned about some of the basic functions that are needed to manage simple databases (i.e. create table, drop table, insert into). We used these new found skills and functions to contruct a simple database table containing information on a list of characters, like Obi-Wan Kenobi. The information included their age, their source, place of birth, and their actor or voice actor. The slideshow located [here](https://github.com/IceWolf777/IceWolf777.github.io/blob/21b0646072bc6d2708b8aff08b1007c8a428187a/finalProject_Presentation.pdf) will provide you with additional information on this project.
+For my team's final project we decided to delve head first into SQL. No one on my team had any experience with SQL or a similar language, so this was all new content for us. We learned how to setup, host, and connect to a database on our local computer. We also learned about some of the basic functions that are needed to manage simple databases (i.e. create table, drop table, insert into). We used these new found skills and functions to contruct a simple database table containing information on a list of characters, like Obi-Wan Kenobi. The information included their age, their source, place of birth, and their actor or voice actor. The slideshow located [here](https://github.com/CastilloAnthony/CastilloAnthony.github.io/blob/21b0646072bc6d2708b8aff08b1007c8a428187a/finalProject_Presentation.pdf) will provide you with additional information on this project.
